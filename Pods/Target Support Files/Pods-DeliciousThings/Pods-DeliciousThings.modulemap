@@ -1,0 +1,6 @@
+framework module Pods_DeliciousThings {
+  umbrella header "Pods-DeliciousThings-umbrella.h"
+
+  export *
+  module * { export * }
+}
